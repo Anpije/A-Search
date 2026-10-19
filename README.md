@@ -1,7 +1,8 @@
 # A-Search
 Implementación del algoritmo de búsqueda **A\*** para encontrar el camino óptimo entre dos puntos de un laberinto generado proceduralmente. Trabajo de la asignatura de Inteligencia Artificial.
  Unity versión 6000.0.63f1
-Controles
+ 
+## Controles
 
 Tecla | Acción                                                                  
 P: genera las posiciones de inicio (color naranja) y meta (color amarillo) 
