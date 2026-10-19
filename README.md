@@ -17,7 +17,7 @@ A* expande siempre el nodo con menor f(n) = g(n) + h(n):
 - g(n): el coste real desde el inicio hasta el nodo.
 - h(n): la heurística, distancia euclídea hasta la meta.
 
-En cada iteración ("search") se toma el nodo actual y se evalúan sus 4 vecinos, descartando muros, límites del mapa y nodos en CLOSED, se añaden o actualizan en OPEN y se mueve a CLOSED el de menor f. Al llegar a la meta, "GetPath" reconstruye el camino siguiendo el "parent" de cada nodo hasta el inicio.
+En cada iteración "search" se toma el nodo actual y se evalúan sus 4 vecinos, descartando los muros, los límites del mapa y nodos en CLOSED, se añaden o actualizan en OPEN y se mueve a CLOSED el de menor f. Al llegar a la meta, "GetPath" reconstruye el camino siguiendo el "parent" de cada nodo hasta el inicio.
 
 ## Trabajo realizado por 
 
