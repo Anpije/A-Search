@@ -20,4 +20,4 @@ En cada iteración ("search") se toma el nodo actual y se evalúan sus 4 vecinos
 
 ## Trabajo realizado por 
 
-- Angeleau Pierre Jeudi ---> Enlace al Blog Ç("")
+- Angeleau Pierre Jeudi ---> Enlace al Blog Ç[https://anpije.github.io/]
